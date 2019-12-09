@@ -1,0 +1,5 @@
+#connection properties for MySQL Data Base
+driver = com.mysql.jdbc.Driver
+url = jdbc:mysql://localhost:3306/ipl
+username = root
+password = 
